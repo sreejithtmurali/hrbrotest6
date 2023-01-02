@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759722979690",
+    "project_id": "sodium-gateway-232910",
+    "storage_bucket": "sodium-gateway-232910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759722979690:android:85b80aab79024b07f63513",
+        "android_client_info": {
+          "package_name": "com.example.hrbrotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759722979690-bj6k575all0vqiikt2tgqs09pmvv3di7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZAQNjIx7NjgYuleq6mwndHwWhrx1PZWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759722979690-bj6k575all0vqiikt2tgqs09pmvv3di7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
